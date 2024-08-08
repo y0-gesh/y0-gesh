@@ -6,7 +6,7 @@
 
 I'm passionate about exploring the intersection between technology and innovation. Currently, I'm sharpening my skills as a front-end developer and contributing to projects that make a difference.
 
-### 🌟 What I'm Currently Working On
+## 🌟 What I'm Currently Working On
 - **3D Rendering Software** at Avkalan Labs using **Electron.js**
   - Increased app efficiency by 60% through optimization techniques
 - **Community Website Development** for Code For Community using **Next.js**
