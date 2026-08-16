@@ -1,29 +1,81 @@
-# 💫 About Me:
+<h1 align="center">Hi, I'm Yogesh Tandan</h1>
+<h3 align="center">Software Engineer | Frontend & Cloud Infrastructure | Multi-Tenant SaaS</h3>
 
-# Hi there! 👋 I'm Yogesh Tandan
-
-🚀 **Engineering Student | Frontend Developer | Technology Enthusiast**
-
-I'm passionate about exploring the intersection between technology and innovation. Currently, I'm sharpening my skills as a front-end developer and contributing to projects that make a difference.
-
-## 🌟 What I'm Currently Working On
-- **3D Rendering Software** at **Avkalan Labs** using **React & Electron.js**
-  - Increased app efficiency by 60% through optimization techniques
-- **Community Website Development** for **Code For Community** using **Next.js**
-  - Focused on dynamic data fetching and seamless user experience
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogesh-tandan/) 
-
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=y0-gesh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=y0-gesh&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=y0-gesh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## ⚡ Fun Fact
-I enjoy engaging in extracurricular activities to apply my engineering skills in practical settings. Ask me about my experience with community events!
+<p align="center">
+  I'm a Software Engineer building production-grade frontend systems that are backed by real cloud infrastructure, not just APIs.<br/>
+  I care about scalable UI architecture, multi-tenant SaaS workflows, and understanding the AWS/Terraform layer underneath the interfaces I ship.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=y0-gesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### About Me
+
+- Currently working as a **Software Engineer at eigenstudio**, building Next.js frontend modules for multi-tenant SaaS platforms, including incident management dashboards and MFA authentication flows built to spec.
+- Previously at **Avkalan Labs**, developing Next.js, React, React Native, and Electron.js applications for computational engineering products, and optimizing a 3D rendering engine for a ~60% performance improvement.
+- Comfortable reverse-engineering unfamiliar backend APIs from source and Postman collections when documentation runs out.
+- Working across the stack that most frontend engineers stop short of: GitHub Actions CI/CD, Terraform-provisioned AWS infrastructure, and OIDC-based GitHub-to-AWS authentication.
+- I write long-form technical guides on my blog covering System Design, DevOps, and Web3D at **[yogeshtandan.in](https://yogeshtandan.in)**.
+
+---
+
+### What I'm Working On
+
+- Multi-tenant SaaS frontend architecture with Cognito-based authentication and tenant isolation
+- Interactive, visualization-heavy UIs using **React Flow**, **Two.js**, and **Recharts**
+- AWS infrastructure provisioning with **Terraform** — ECS, Fargate, API Gateway, WAF, DynamoDB
+- CI/CD pipelines in GitHub Actions, including OIDC-secured deployments with zero static AWS keys
+
+---
+
+### How to Reach Me
+
+- Email: **[yogeshtandan25@gmail.com](mailto:yogeshtandan25@gmail.com)**
+- Portfolio: [yogeshtandan.in](https://yogeshtandan.in)
+- Resume: [Download PDF](https://yogeshtandan.in/resume/yogesh.pdf)
+
+---
+
+### Connect With Me
+
+<p align="center">
+  <a href="https://x.com/y0_gesh_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-tandan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### Languages & Tools
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.electronjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron.js" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=y0-gesh&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180"/>
+</p>
+
+---
+
+### Currently Reading
+
+> Working through production infrastructure the way most engineers only read about — OIDC auth, Terraform-managed AWS, and multi-tenant frontend architecture, one deployment at a time.
+
+---
