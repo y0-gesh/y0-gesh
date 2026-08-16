@@ -66,15 +66,6 @@
 
 ---
 
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=y0-gesh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-<p align="center">
-</p>
-![](https://github-readme-stats.vercel.app/api?username=y0-gesh&theme=github_dark)
-
----
-
 ### Currently Reading
 
 > Working through production infrastructure the way most engineers only read about — OIDC auth, Terraform-managed AWS, and multi-tenant frontend architecture, one deployment at a time.
