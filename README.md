@@ -68,8 +68,9 @@
 
 ### GitHub Stats
 
+  ![](https://github-readme-stats.vercel.app/api?username=y0-gesh&theme=nightowl&include_all_commits=false&count_private=true)<br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y0-gesh&theme=nightowl&include_all_commits=false&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=y0-gesh&theme=github_dark" alt="GitHub Stats" height="180"/>
 </p>
 
 ---
